@@ -5,4 +5,4 @@ This is my simple startpage.
 
 ![](./image.png)
 
-[Live preview of site]([https://voxie12.github.io](https://drnyaaa.github.io/mononoke-startpage/)/)
+[Live preview of site](https://drnyaaa.github.io/mononoke-startpage/)
